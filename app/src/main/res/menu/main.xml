@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_add"
+        android:title="add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="ifRoom"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/main_edit"
+        android:title="Edit"
+        android:showAsAction="ifRoom"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/main_signOut"
+        android:title="Sign out"
+        android:showAsAction="ifRoom"
+        android:visible="true"/>
+
+</menu>

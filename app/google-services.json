@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1018593890507",
+    "firebase_url": "https://tictaccook-9e362.firebaseio.com",
+    "project_id": "tictaccook-9e362",
+    "storage_bucket": "tictaccook-9e362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018593890507:android:d42b01d90c079080",
+        "android_client_info": {
+          "package_name": "com.example.moran.tictaccook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018593890507-j3g2cf9ohjjbbptr84oc3j0ne2u62h7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEf0eqa4qWWSyItU6PYlwU0e6slaxa-CM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018593890507:android:9384ef34c4b44c58",
+        "android_client_info": {
+          "package_name": "com.moran.tictaccook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018593890507-j3g2cf9ohjjbbptr84oc3j0ne2u62h7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEf0eqa4qWWSyItU6PYlwU0e6slaxa-CM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
